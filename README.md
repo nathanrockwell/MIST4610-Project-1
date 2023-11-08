@@ -17,7 +17,8 @@ Explanation of the data model:
 ![image](https://github.com/SpaMnky/2378/assets/131407808/6e1f9ccc-61d2-41eb-80dd-2668e2ecc278)
 ![image](https://github.com/SpaMnky/2378/assets/131407808/8725c26c-f2a1-4b02-bfcd-15ece280b17f)
 ![image](https://github.com/SpaMnky/2378/assets/131407808/f11ed9d7-f78b-4648-af59-c9168b3727fa)
-![image](https://github.com/SpaMnky/2378/assets/131407808/71559807-74e2-4e2a-a081-2afa3fbdbce5)
+<img width="378" alt="image" src="https://github.com/nathanrockwell/MIST4610-Project-1/assets/148256894/40b2f991-8be9-4635-baea-c224c665146d">
+
 ![image](https://github.com/SpaMnky/2378/assets/131407808/3785a1b5-0e50-480e-8b91-00decb5a3d49)
 ![image](https://github.com/SpaMnky/2378/assets/131407808/6ff564e7-13f1-4cc5-b5d0-6e0539870309)
 ![image](https://github.com/SpaMnky/2378/assets/131407808/81d4c155-1c26-48f0-81b1-3336054412c2)
